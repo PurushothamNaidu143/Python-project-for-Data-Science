@@ -1,2 +1,2 @@
-# project_on_data_analysis_using_web_scraping
+# Python project for data science
 In this project I analyzed stock data using web scraping and built a dashboard
